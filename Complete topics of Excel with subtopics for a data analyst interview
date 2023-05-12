@@ -1,0 +1,56 @@
+Complete topics of Excel with subtopics for a data analyst interview :-
+
+Excel Basics:
+Understanding the Excel interface
+Keyboard shortcuts
+Working with workbooks and worksheets
+Basic functions and formulas
+Formatting data and cells
+
+Data Entry and Data Validation:
+Entering data into Excel
+Using Data Validation to control data input
+Using drop-down lists to select data
+
+Sorting and Filtering Data:
+Sorting data by multiple columns
+Using the Filter function to filter data by multiple criteria
+Advanced filtering techniques such as date range filtering and text filtering
+
+Pivot Tables:
+Creating pivot tables
+Using pivot tables to summarize and analyze data
+Filtering pivot tables
+Formatting pivot tables
+
+Advanced Formulas and Functions:
+Using IF, SUMIF, COUNTIF, and other conditional functions
+Using VLOOKUP, XLOOKUP and HLOOKUP functions
+Using INDEX and MATCH functions
+Working with date and time functions
+
+Charts and Graphs:
+Creating charts and graphs to visualize data
+Selecting the right type of chart for the data
+Formatting charts and graphs
+
+What-If Analysis:
+Using Goal Seek to determine the required input to achieve a desired output
+Using Scenario Manager to compare different scenarios
+Using Solver to find an optimal solution for a problem
+
+Macros:
+Recording macros to automate repetitive tasks
+Writing macros using Visual Basic for Applications (VBA)
+Editing and running macros
+
+Data Cleaning and Transformation:
+Identifying and fixing errors in data
+Using text functions to clean and transform data
+Splitting and combining data using text functions
+
+Advanced Excel Features:
+Using Conditional Formatting to highlight important data
+Using Array Formulas to perform complex calculations
+Using Power Query to transform and load data
+Using Power Pivot to create advanced data models and calculations
